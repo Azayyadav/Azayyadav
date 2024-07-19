@@ -1,49 +1,48 @@
-- 👋 Hi, I’m @Azayyadav
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[ Hi, I'm MD MAFUJUL HASAN! A passionate Frontend Developer from Bangladesh GIF
+        Followers   Profile_Update  
 
-# Project Name
 
-### Steps to include the radar chart image:
-1. Save your radar chart image as a PNG file (e.g., `radar-chart.png`).
-2. Place the image in an appropriate directory within your repository (e.g., in a folder named `images`).
-3. Update the `![Radar Chart](path/to/your/radar-chart.png)` line in the README to point to the correct path of your radar chart image.
 
-### Optional: Generating the Radar Chart with Python
-If you need to generate the radar chart programmatically, here's a complete Python script example:
+ About me
 
-```python
-import matplotlib.pyplot as plt
-import numpy as np
 
-# Data
-labels = ['Commit', 'Issue', 'PullReq', 'Review', 'Repo']
-stats = [1000, 100, 50, 20, 10]  # Example data points for each category
+All about me is at Portfolio
 
-# Number of variables
-num_vars = len(labels)
+My name is MD Mafujul Hasan and I am a Computer Science and Engineering student at Sonargaon University in Dhaka, Bangladesh.
 
-# Compute angle of each axis
-angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
+I am proficient in various programming languages such as C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.
 
-# Complete the loop
-stats += stats[:1]
-angles += angles[:1]
+I also have experience working with frameworks and libraries such as NodeJS, ReactJS, OpenCV, Pandas, and NumPy.
 
-# Plot
-fig, ax = plt.subplots(figsize=(6, 6), subplot_kw=dict(polar=True))
-ax.fill(angles, stats, color='green', alpha=0.25)
-ax.plot(angles, stats, color='green', linewidth=2)
+Whenever possible, I also apply my passion for developing products with Modern Javascript Library and Frameworks.
 
-# Labels
-ax.set_yticklabels(['10', '100', '1k', '10k'], color='grey', size=10)
-ax.set_xticks(angles[:-1])
-ax.set_xticklabels(labels)
+In my free time, I enjoy learning new technologies and building new web technologies and products.
 
-plt.savefig('images/radar-chart.png')
-plt.show()
+I’m currently open for a new job opportunity.
 
+Reach me: GitHub
+
+Add me on 
+
+All of my projects are available at 
+
+  Code   Python   Jupyter   NumPy   Pandas   Ploty   ScikitLearn   SciPy   TensorFlow   MATLAB   R   C++   shell   LaTeX  
+
+
+Connect With Me
+LinkedIn Instagram Facebook Gmail
+
+
+Competitive Programming & Problem Solving
+  Codeforces   Leetcode   Hackerrank   CodeChef   Codin Game   Codewars   HackerEarth
+
+
+Tech Stack
+bootstrap c cplusplus css3 django dotnet git html5 illustrator java javascript laravel mongodb mssql mysql nextjs nodejs oracle pandas photoshop php python react scikit_learn seaborn typescript vuejs
+
+Visitor's count 👀
+0_My_Template :: Visitor's Count
+
+     Top Langs GitHub Streak trophy
+
+](https://github.com/MD-MAFUJUL-HASAN/github-profile-trophy)
