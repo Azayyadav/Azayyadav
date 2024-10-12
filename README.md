@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning **Data Structures and Algorithms (DSA)**
 - 🤖 Diving into **Deep Learning and LSTM**
 - 🌱 Always excited to explore new technologies and solve real-world problems
-- - 🌍 Based in Janakpur with a global vision for tech solutions.
+- 🌍 Based in Janakpur with a global vision for tech solutions.
 - 🎶 Music Lover 🎧
 
 ## 💼 Projects
