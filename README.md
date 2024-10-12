@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
-- 🔭 I’m currently learning **Data Structures and Algorithms (DSA)**
+- I have a strong proficiency in **Data Structures and Algorithms (DSA)**.
 - 🤖 Diving into **Deep Learning and LSTM**
 - 🌱 Always excited to explore new technologies and solve real-world problems
 - 🌍 Based in Janakpur with a global vision for tech solutions.
