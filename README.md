@@ -8,6 +8,21 @@
 - 🤖 Diving into **Deep Learning and LSTM**
 - 🌱 Always excited to explore new technologies and solve real-world problems
 - 😊 Fun Fact: **I love Music!**
+- 
+ ## 💼 Projects
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.codewithazay.online/).
+
+# 🎓 About Ajay Yaduvanshi
+- 🌱 Passionate about solving real-world problems through software.
+- 🌍 Based in Janakpur with a global vision for tech solutions.
+
+## ☕ Support My Work
+<p align="left">
+<a href="https://www.buymeacoffee.com/simplified"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
+</p>
+
+## 🌱 Fun Fact
+- **I am a Software Engineer, and I love turning challenges into opportunities!**
 
 ## 🌐 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=About.me&logoColor=white)](https://www.codewithazay.online/)
@@ -25,29 +40,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=beyondstrong62&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=beyondstrong62&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beyondstrong62&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=beyondstrong62&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
-## 💼 Projects
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.codewithazay.online/).
-
-# 🎓 About Ajay Yaduvanshi
-- 🌱 Passionate about solving real-world problems through software.
-- 🌍 Based in Janakpur with a global vision for tech solutions.
-
-## ☕ Support My Work
-<p align="left">
-<a href="https://www.buymeacoffee.com/simplified"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
-</p>
-
-## 🌱 Fun Fact
-- **I am a Software Engineer, and I love turning challenges into opportunities!**
 
 ---
 <h2 align="center">Let's Connect and Create Something Amazing! ✨</h2>
