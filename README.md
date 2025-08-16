@@ -11,7 +11,7 @@
 - 🎶 Music Lover 🎧
 
 ## 💼 Projects
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.codewithazay.online/).
+- 👨‍💻 All of my projects are available at [My Portfolio]().
 
 ## ☕ Support My Work
 <p align="left">
@@ -23,13 +23,7 @@
 
 
 # 🌐 Let's Connect:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=About.me&logoColor=white)](https://www.codewithazay.online/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@journeyroom)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/AzayYaduvanshi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaykumaryadav01/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/azayyadav)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/azayyaduvanshi/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IK0940WGZqQ58HGjDqpGCy)
+
 
 
 ---
